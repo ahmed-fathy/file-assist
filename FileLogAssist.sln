@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileLogAssist", "FileLogAssist.csproj", "{DECDCAE9-EBD8-47DD-A0B0-91FBD4356348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DECDCAE9-EBD8-47DD-A0B0-91FBD4356348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECDCAE9-EBD8-47DD-A0B0-91FBD4356348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECDCAE9-EBD8-47DD-A0B0-91FBD4356348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECDCAE9-EBD8-47DD-A0B0-91FBD4356348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBAF9C85-E128-4B01-BBD2-067554C2950F}
+	EndGlobalSection
+EndGlobal
